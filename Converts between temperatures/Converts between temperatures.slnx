@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="Converts between temperatures.vcxproj" Id="6cbcc783-8dac-489d-abd0-534d6c04a50b" />
-</Solution>
